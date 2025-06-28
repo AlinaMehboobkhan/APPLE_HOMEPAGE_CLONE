@@ -1,4 +1,4 @@
-#@ Apple Clone Page
+## Apple Clone Page
 
 ## Overview
 The Apple Clone Page is a web application that replicates the design and layout of the official Apple website. It features various Apple products, including the iPhone 15 Pro, MacBook Air, Apple Watch, and iPad Pro.
